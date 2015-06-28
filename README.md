@@ -1,1 +1,1 @@
-## Jersey Example
+## Jetty + Jersey Example
